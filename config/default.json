@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "trol forever",
+    "mongoUri": "mongodb+srv://ruslan:95219521@cluster0.bx9cf.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
